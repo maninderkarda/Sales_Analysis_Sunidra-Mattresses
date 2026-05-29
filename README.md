@@ -61,6 +61,10 @@ Provides insights into:
 
 ![Web Analytics Dashboard](Screenshots/WebAnalytics.png)
 
+### Navigation & Filters
+
+![Data Model](Screenshots/Navigation_&_Filters.png)
+
 ### Data Model
 
 ![Data Model](Screenshots/ModelView.png)
@@ -184,11 +188,15 @@ sunidra-mattresses-sales-web-analytics/
 ├── Screenshots/
 │   ├── Sales_Dashboard.png
 │   ├── WebAnalytics.png
+|   ├── Navigation_&_Filters.png
 │   ├── ModelView.png
 │   └── Tables_Relationship.png
 │
 ├── Dataset/
-│   └── Sample_Data.xlsx
+│   └── Details.xlsx
+|   └── Orders.xlsx
+|   └── Product.xlsx
+|   └── WebsiteData.xlsx
 │
 └── PowerBI/
     └── Sunidra_Sales_WebAnalytics.pbix
