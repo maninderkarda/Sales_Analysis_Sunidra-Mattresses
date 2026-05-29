@@ -63,7 +63,7 @@ Provides insights into:
 
 ### Navigation & Filters
 
-![Data Model](Screenshots/Navigation_&_Filters.png)
+![Navigation](Screenshots/Navigation_&_Filters.png)
 
 ### Data Model
 
